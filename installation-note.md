@@ -49,3 +49,6 @@
 
 ## Video resource.
 https://www.youtube.com/watch?v=3Uy0KRPHQik.
+
+## visual studio extension.
+* laravel blade snippets and html snippets.
