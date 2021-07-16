@@ -52,3 +52,9 @@ https://www.youtube.com/watch?v=3Uy0KRPHQik.
 
 ## visual studio extension.
 * laravel blade snippets and html snippets.
+
+## Frontend.
+* composer require laravel/ui.
+* npm install vue-loader@^15.9.7 --save-dev --legacy-peer-deps.
+* php artisan ui vue -- auth.
+* npm i && npm run dev.
